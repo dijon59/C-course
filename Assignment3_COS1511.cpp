@@ -3,6 +3,8 @@
 #include <string>
 using namespace std;
 
+// todo: check the rubric and refactor the code according to it;
+
 struct timeOption {
     double departure_time;
     double arrived_time;
@@ -14,6 +16,9 @@ struct timeOption {
                                          {"F1", "F2", "F3", "F4", "F5", "F6"},
                                          {"G1", "G2", "G3", "G4", "G5", "G6"},
                                          {"H1", "H2", "H3", "H4", "H5", "H6"}};
+
+    // todo: Add I1 AND I2 seat numbers;
+    // todo: replace vector with basic array e.g(string booked_seat[50] = {})
     vector<string> booked_seats{}; // replace it with string booked_seat[50] = {};
 //    string booked_seat[50] = {}; // to be used
     string passenger_name;
@@ -102,7 +107,7 @@ int main() {
     displayBookings(array_time);
     return 0;
 }
-
+// todo: calculate length of array;
 int length (vector<string> vec) {
 //    int count = 1;
 //    for (int i = 0; i < vec.size(); i++) {
@@ -146,6 +151,8 @@ string get_seat_number(vector<string> booked_seats, string seat_number) {
 }
 
 void display_ticket(timeOption array_time[], int index, string seat_number) {
+    // todo: use calculation amount displayed on ticket;
+    // todo: determine the Travel ticket class;
     cout << "***********************\n";
     cout << "Travel ticket for FLIGHT\n";
     cout << "***********************\n";
