@@ -8,94 +8,130 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/dijon/CLionProjects/firstApp/cmake-build-debug"/>
+				<Option working_dir="C:/Users/dijon/CLionProjects/C-course/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/Users/dijon/CLionProjects/firstApp/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/dijon/CLionProjects/firstApp/cmake-build-debug"/>
+				<Option working_dir="C:/Users/dijon/CLionProjects/C-course/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="firstApp">
-				<Option output="/Users/dijon/CLionProjects/firstApp/cmake-build-debug/firstApp" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/dijon/CLionProjects/firstApp/cmake-build-debug"/>
+				<Option output="C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/firstApp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dijon/CLionProjects/C-course/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 firstApp"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 firstApp"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="firstApp/fast">
-				<Option output="/Users/dijon/CLionProjects/firstApp/cmake-build-debug/firstApp" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/dijon/CLionProjects/firstApp/cmake-build-debug"/>
+				<Option output="C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/firstApp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dijon/CLionProjects/C-course/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 firstApp/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dijon/CLionProjects/firstApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 firstApp/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/dijon/CLionProjects/C-course/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/dijon/CLionProjects/firstApp/chap3.cpp">
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/Assignment3.cpp">
 			<Option target="firstApp"/>
 		</Unit>
-		<Unit filename="/Users/dijon/CLionProjects/firstApp/chap4.cpp">
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/Assignment3.h">
 			<Option target="firstApp"/>
 		</Unit>
-		<Unit filename="/Users/dijon/CLionProjects/firstApp/chap5.cpp">
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/Assignment3_COS1511.cpp">
 			<Option target="firstApp"/>
 		</Unit>
-		<Unit filename="/Users/dijon/CLionProjects/firstApp/chap6.cpp">
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/COS1512_Assignment_2.cpp">
 			<Option target="firstApp"/>
 		</Unit>
-		<Unit filename="/Users/dijon/CLionProjects/firstApp/main.cpp">
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap10.cpp">
 			<Option target="firstApp"/>
 		</Unit>
-		<Unit filename="/Users/dijon/CLionProjects/firstApp/CMakeLists.txt">
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap11.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap14.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap3.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap4.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap5.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap6.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap8.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap9.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/dtime.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/dtime.h">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/implimentation.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/main.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

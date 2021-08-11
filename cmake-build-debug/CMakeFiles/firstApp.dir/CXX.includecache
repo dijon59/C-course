@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/dijon/CLionProjects/firstApp/chap5.cpp
+C:/Users/dijon/CLionProjects/C-course/Assignment3_COS1511.cpp
 iostream
+-
+vector
+-
+string
 -
 

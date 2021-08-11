@@ -1,19 +1,17 @@
 #include <iostream>
 #include <fstream>
-#include <cstdlib>
+#include <cstdlib> // used for exit statement
 
 using namespace std;
 
 
 //int main() {
-//    using namespace std;
-//    char inFileName[16], outFileName[16];
 //    ifstream inStream;
 //    ofstream outStream;
 //
 //    inStream.open("infile.txt");
 //    outStream.open("outfile.txt"); // in order to append the data in the file add ios::app as a second argument
-////     outStream.open("outfile.txt", ios::app);
+////    outStream.open("outfile.txt", ios::app);
 //
 //    int first, second, third;
 //
@@ -24,7 +22,7 @@ using namespace std;
 //    }
 //
 //    inStream >> first >> second >> third;
-//    cout << first << second << third;
+////    cout << first << second << third;
 //    outStream << "The sum of the first 3\n"
 //              << "numbers in infile.txt\n"
 //              << "is "<< (first + second + third)
@@ -32,7 +30,7 @@ using namespace std;
 //    inStream.close();
 //    outStream.close();
 //    return 0;
-//}
+//} 19.8 34.3
 
 
 //int main() {
@@ -46,7 +44,6 @@ using namespace std;
 //
 //    cout << "Enter the input file name (maximum of 15 characters): \n";
 //    cin >> inFileName;
-//
 //    cout << "Enter the output file name (maximum of 15 characters): \n";
 //    cin >> outFileName;
 //
@@ -138,3 +135,19 @@ using namespace std;
 ////    outStream.close();
 ////    return 0;
 ////}
+
+// --------------------------- Member function get and put ----------------------------
+//int main() {
+//
+////    cout << "Enter a line of input and i will echo it:\n";
+////    char symbol;
+////
+////    do {
+//////        cin >> symbol;
+////        cin.get(symbol);
+////        cout << symbol;
+////
+////    }while(symbol != '\n');
+////    cout << "That's all for this demonstration.";
+//    return 0;
+//}

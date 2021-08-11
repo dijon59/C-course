@@ -58,48 +58,48 @@
 
 // =======================================================================================
 
-#include <iostream>
-
-void getNumbers(int& input1, int& input2);
-//Reads two integers from the keyboard.
-void swapValues(int& variable1, int& variable2);
-//Precondition: variable1 and variable2 have been given values
-//Interchanges the values of variable1 and variable2.
-void showResults(int output1, int output2);
-//Shows the values of variable1 and variable2, in that order.
-int main()
- {
- int firstNum = 0, secondNum = 0;
-
- getNumbers(firstNum, secondNum);
- swapValues(firstNum, secondNum);
- showResults(firstNum, secondNum);
- return 0;
- }
- //Uses iostream:
- void getNumbers (int& input1, int& input2)
- {
- using namespace std;
- cout << "Enter two integers: ";
- cin >> input1
- >> input2;
- }
- void swapValues(int& variable1, int& variable2)
- {
- int temp;
- temp = variable1;
-
-// test = temp;
- variable1 = variable2;
- variable2 = temp;
- }
- //Uses iostream:
- void showResults(int output1, int output2)
- {
- using namespace std;
- cout << "In reverse order the numbers are: "
- << output1 << " " << output2 << endl;
- }
+//#include <iostream>
+//
+//void getNumbers(int& input1, int& input2);
+////Reads two integers from the keyboard.
+//void swapValues(int& variable1, int& variable2);
+////Precondition: variable1 and variable2 have been given values
+////Interchanges the values of variable1 and variable2.
+//void showResults(int output1, int output2);
+////Shows the values of variable1 and variable2, in that order.
+//int main()
+// {
+// int firstNum = 0, secondNum = 0;
+//
+// getNumbers(firstNum, secondNum);
+// swapValues(firstNum, secondNum);
+// showResults(firstNum, secondNum);
+// return 0;
+// }
+// //Uses iostream:
+// void getNumbers (int& input1, int& input2)
+// {
+// using namespace std;
+// cout << "Enter two integers: ";
+// cin >> input1
+// >> input2;
+// }
+// void swapValues(int& variable1, int& variable2)
+// {
+// int temp;
+// temp = variable1;
+//
+//// test = temp;
+// variable1 = variable2;
+// variable2 = temp;
+// }
+// //Uses iostream:
+// void showResults(int output1, int output2)
+// {
+// using namespace std;
+// cout << "In reverse order the numbers are: "
+// << output1 << " " << output2 << endl;
+// }
 
 // ============================================================================================
 

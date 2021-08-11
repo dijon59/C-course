@@ -2,7 +2,7 @@
 #include <iostream>
 #include <climits>
 #include <vector>
-//using namespace std;
+using namespace std;
 
 //int main() {
 //    int favorite_number;
@@ -113,7 +113,6 @@
 //             << "Press y for yes, n for no, \n"
 //             << "and then press return: ";
 //        cin >> ans;
-//
 //    } while (ans == 'y' || ans == 'Y');
 //}
 
@@ -154,3 +153,13 @@
 //    }
 //    return 0;
 //}
+
+//
+//int main() {
+//    int sales[5] = {10000, 12000, 900, 500, 20000};
+//    sales[4] = sales[4-2];
+//    cout << sales[4];
+//
+//    return 0;
+//}
+// =====================================chap12====================

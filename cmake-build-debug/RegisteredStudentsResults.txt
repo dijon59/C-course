@@ -1,0 +1,18 @@
+Name:John Martin
+ID:78120189
+Student number:12345
+Diploma:Garden Design
+Mark:61.4
+Pass/Fail:Pass
+Name:Busi Molefe
+ID:81011201
+Student number:23456
+Diploma:Gourmet Cooking
+Mark:65.6
+Pass/Fail:Pass
+Name:Sean Naidoo
+ID:69812018
+Student number:34567
+Diploma:Garden Design
+Mark:57.4
+Pass/Fail:Pass

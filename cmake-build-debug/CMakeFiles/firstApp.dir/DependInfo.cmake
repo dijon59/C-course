@@ -4,13 +4,23 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/dijon/CLionProjects/firstApp/chap3.cpp" "/Users/dijon/CLionProjects/firstApp/cmake-build-debug/CMakeFiles/firstApp.dir/chap3.cpp.o"
-  "/Users/dijon/CLionProjects/firstApp/chap4.cpp" "/Users/dijon/CLionProjects/firstApp/cmake-build-debug/CMakeFiles/firstApp.dir/chap4.cpp.o"
-  "/Users/dijon/CLionProjects/firstApp/chap5.cpp" "/Users/dijon/CLionProjects/firstApp/cmake-build-debug/CMakeFiles/firstApp.dir/chap5.cpp.o"
-  "/Users/dijon/CLionProjects/firstApp/chap6.cpp" "/Users/dijon/CLionProjects/firstApp/cmake-build-debug/CMakeFiles/firstApp.dir/chap6.cpp.o"
-  "/Users/dijon/CLionProjects/firstApp/main.cpp" "/Users/dijon/CLionProjects/firstApp/cmake-build-debug/CMakeFiles/firstApp.dir/main.cpp.o"
+  "C:/Users/dijon/CLionProjects/C-course/Assignment3.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/Assignment3.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/Assignment3_COS1511.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/Assignment3_COS1511.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/COS1512_Assignment_2.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/COS1512_Assignment_2.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap10.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap10.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap11.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap11.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap14.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap14.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap3.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap3.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap4.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap4.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap5.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap5.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap6.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap6.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap8.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap8.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap9.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap9.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/dtime.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/dtime.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/implimentation.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/implimentation.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/main.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
