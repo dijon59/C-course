@@ -178,6 +178,8 @@ void book_seats(string seat_number, timeOption array_time[], int index, bool &is
     array_time[index].booked_seats.push_back(seat_number);
     isCorrectOption = false;
 
+
+    // todo: refactor this code in order to have only one condition;
     for (int i = 0; i < 4; i++) {
         if (seat_number == array_time[index].f_seat_number_array[i][0]) {
             array_time[index].f_seat_number_array[i][0] = "**";
