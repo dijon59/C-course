@@ -101,6 +101,12 @@
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap14.cpp">
 			<Option target="firstApp"/>
 		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap15.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap17.cpp">
+			<Option target="firstApp"/>
+		</Unit>
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap3.cpp">
 			<Option target="firstApp"/>
 		</Unit>
@@ -125,10 +131,31 @@
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/dtime.h">
 			<Option target="firstApp"/>
 		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/employee.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/employee.h">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/employee_implementation.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/hourlyEmployee.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/hourlyEmployee.h">
+			<Option target="firstApp"/>
+		</Unit>
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/implimentation.cpp">
 			<Option target="firstApp"/>
 		</Unit>
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/main.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/salariedEmployee.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/salariedEmployee.h">
 			<Option target="firstApp"/>
 		</Unit>
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/CMakeLists.txt">

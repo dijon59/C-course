@@ -1,7 +1,7 @@
 //
-// Created by dijon on 05 Aug 2021.
+//// Created by dijon on 05 Aug 2021.
 //
-
+//
 //#include <iostream>
 //using namespace std;
 //
@@ -19,7 +19,7 @@
 //}
 //
 //void writeVertical(int n) {
-//    if (n > 10) {
+//    if (n < 10) {
 //        cout << n << endl;
 //    }
 //    else {
@@ -27,22 +27,19 @@
 //        cout << (n % 10) << endl;
 //    }
 //}
-
-//#include <iostream>
 //
-//using namespace std;
+//// ====== =====
 //
-//int factorialFinder(int x);
-//
-//int main () {
-//    cout << factorialFinder(7);
-//}
-//
-//int factorialFinder(int x) {
-//    if (x == 1) {
-//        return 1;
-//    }
-//    else {
-//        return x * factorialFinder(x - 1);
-//    }
-//}
+////int factorialFinder(int x) {
+////    if (x == 1) {
+////        return 1;
+////    }
+////    else {
+////        cout << "T";
+////        return x * factorialFinder(x - 1);
+////    }
+////}
+////
+////int main () {
+////    cout << factorialFinder(7);
+////}

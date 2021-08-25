@@ -284,6 +284,60 @@ chap14.cpp.s:
 	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/chap14.cpp.s
 .PHONY : chap14.cpp.s
 
+chap15.obj: chap15.cpp.obj
+
+.PHONY : chap15.obj
+
+# target to build an object file
+chap15.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/chap15.cpp.obj
+.PHONY : chap15.cpp.obj
+
+chap15.i: chap15.cpp.i
+
+.PHONY : chap15.i
+
+# target to preprocess a source file
+chap15.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/chap15.cpp.i
+.PHONY : chap15.cpp.i
+
+chap15.s: chap15.cpp.s
+
+.PHONY : chap15.s
+
+# target to generate assembly for a file
+chap15.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/chap15.cpp.s
+.PHONY : chap15.cpp.s
+
+chap17.obj: chap17.cpp.obj
+
+.PHONY : chap17.obj
+
+# target to build an object file
+chap17.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/chap17.cpp.obj
+.PHONY : chap17.cpp.obj
+
+chap17.i: chap17.cpp.i
+
+.PHONY : chap17.i
+
+# target to preprocess a source file
+chap17.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/chap17.cpp.i
+.PHONY : chap17.cpp.i
+
+chap17.s: chap17.cpp.s
+
+.PHONY : chap17.s
+
+# target to generate assembly for a file
+chap17.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/chap17.cpp.s
+.PHONY : chap17.cpp.s
+
 chap3.obj: chap3.cpp.obj
 
 .PHONY : chap3.obj
@@ -473,6 +527,87 @@ dtime.cpp.s:
 	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/dtime.cpp.s
 .PHONY : dtime.cpp.s
 
+employee.obj: employee.cpp.obj
+
+.PHONY : employee.obj
+
+# target to build an object file
+employee.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/employee.cpp.obj
+.PHONY : employee.cpp.obj
+
+employee.i: employee.cpp.i
+
+.PHONY : employee.i
+
+# target to preprocess a source file
+employee.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/employee.cpp.i
+.PHONY : employee.cpp.i
+
+employee.s: employee.cpp.s
+
+.PHONY : employee.s
+
+# target to generate assembly for a file
+employee.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/employee.cpp.s
+.PHONY : employee.cpp.s
+
+employee_implementation.obj: employee_implementation.cpp.obj
+
+.PHONY : employee_implementation.obj
+
+# target to build an object file
+employee_implementation.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/employee_implementation.cpp.obj
+.PHONY : employee_implementation.cpp.obj
+
+employee_implementation.i: employee_implementation.cpp.i
+
+.PHONY : employee_implementation.i
+
+# target to preprocess a source file
+employee_implementation.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/employee_implementation.cpp.i
+.PHONY : employee_implementation.cpp.i
+
+employee_implementation.s: employee_implementation.cpp.s
+
+.PHONY : employee_implementation.s
+
+# target to generate assembly for a file
+employee_implementation.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/employee_implementation.cpp.s
+.PHONY : employee_implementation.cpp.s
+
+hourlyEmployee.obj: hourlyEmployee.cpp.obj
+
+.PHONY : hourlyEmployee.obj
+
+# target to build an object file
+hourlyEmployee.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/hourlyEmployee.cpp.obj
+.PHONY : hourlyEmployee.cpp.obj
+
+hourlyEmployee.i: hourlyEmployee.cpp.i
+
+.PHONY : hourlyEmployee.i
+
+# target to preprocess a source file
+hourlyEmployee.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/hourlyEmployee.cpp.i
+.PHONY : hourlyEmployee.cpp.i
+
+hourlyEmployee.s: hourlyEmployee.cpp.s
+
+.PHONY : hourlyEmployee.s
+
+# target to generate assembly for a file
+hourlyEmployee.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/hourlyEmployee.cpp.s
+.PHONY : hourlyEmployee.cpp.s
+
 implimentation.obj: implimentation.cpp.obj
 
 .PHONY : implimentation.obj
@@ -527,6 +662,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+salariedEmployee.obj: salariedEmployee.cpp.obj
+
+.PHONY : salariedEmployee.obj
+
+# target to build an object file
+salariedEmployee.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/salariedEmployee.cpp.obj
+.PHONY : salariedEmployee.cpp.obj
+
+salariedEmployee.i: salariedEmployee.cpp.i
+
+.PHONY : salariedEmployee.i
+
+# target to preprocess a source file
+salariedEmployee.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/salariedEmployee.cpp.i
+.PHONY : salariedEmployee.cpp.i
+
+salariedEmployee.s: salariedEmployee.cpp.s
+
+.PHONY : salariedEmployee.s
+
+# target to generate assembly for a file
+salariedEmployee.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/salariedEmployee.cpp.s
+.PHONY : salariedEmployee.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -554,6 +716,12 @@ help:
 	@echo ... chap14.obj
 	@echo ... chap14.i
 	@echo ... chap14.s
+	@echo ... chap15.obj
+	@echo ... chap15.i
+	@echo ... chap15.s
+	@echo ... chap17.obj
+	@echo ... chap17.i
+	@echo ... chap17.s
 	@echo ... chap3.obj
 	@echo ... chap3.i
 	@echo ... chap3.s
@@ -575,12 +743,24 @@ help:
 	@echo ... dtime.obj
 	@echo ... dtime.i
 	@echo ... dtime.s
+	@echo ... employee.obj
+	@echo ... employee.i
+	@echo ... employee.s
+	@echo ... employee_implementation.obj
+	@echo ... employee_implementation.i
+	@echo ... employee_implementation.s
+	@echo ... hourlyEmployee.obj
+	@echo ... hourlyEmployee.i
+	@echo ... hourlyEmployee.s
 	@echo ... implimentation.obj
 	@echo ... implimentation.i
 	@echo ... implimentation.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... salariedEmployee.obj
+	@echo ... salariedEmployee.i
+	@echo ... salariedEmployee.s
 .PHONY : help
 
 

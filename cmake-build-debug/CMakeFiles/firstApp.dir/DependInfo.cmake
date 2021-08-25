@@ -10,6 +10,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/dijon/CLionProjects/C-course/chap10.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap10.cpp.obj"
   "C:/Users/dijon/CLionProjects/C-course/chap11.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap11.cpp.obj"
   "C:/Users/dijon/CLionProjects/C-course/chap14.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap14.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap15.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap15.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/chap17.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap17.cpp.obj"
   "C:/Users/dijon/CLionProjects/C-course/chap3.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap3.cpp.obj"
   "C:/Users/dijon/CLionProjects/C-course/chap4.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap4.cpp.obj"
   "C:/Users/dijon/CLionProjects/C-course/chap5.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap5.cpp.obj"
@@ -17,8 +19,12 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/dijon/CLionProjects/C-course/chap8.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap8.cpp.obj"
   "C:/Users/dijon/CLionProjects/C-course/chap9.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/chap9.cpp.obj"
   "C:/Users/dijon/CLionProjects/C-course/dtime.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/dtime.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/employee.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/employee.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/employee_implementation.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/employee_implementation.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/hourlyEmployee.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/hourlyEmployee.cpp.obj"
   "C:/Users/dijon/CLionProjects/C-course/implimentation.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/implimentation.cpp.obj"
   "C:/Users/dijon/CLionProjects/C-course/main.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/main.cpp.obj"
+  "C:/Users/dijon/CLionProjects/C-course/salariedEmployee.cpp" "C:/Users/dijon/CLionProjects/C-course/cmake-build-debug/CMakeFiles/firstApp.dir/salariedEmployee.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
