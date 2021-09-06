@@ -329,6 +329,84 @@ CMakeFiles/firstApp.dir/chap17.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/firstApp.dir/chap17.cpp.s"
 	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dijon\CLionProjects\C-course\chap17.cpp -o CMakeFiles\firstApp.dir\chap17.cpp.s
 
+CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.obj: CMakeFiles/firstApp.dir/flags.make
+CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.obj: ../Assignment4_COS1512.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dijon\CLionProjects\C-course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\firstApp.dir\Assignment4_COS1512.cpp.obj -c C:\Users\dijon\CLionProjects\C-course\Assignment4_COS1512.cpp
+
+CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.i"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\dijon\CLionProjects\C-course\Assignment4_COS1512.cpp > CMakeFiles\firstApp.dir\Assignment4_COS1512.cpp.i
+
+CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.s"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dijon\CLionProjects\C-course\Assignment4_COS1512.cpp -o CMakeFiles\firstApp.dir\Assignment4_COS1512.cpp.s
+
+CMakeFiles/firstApp.dir/Insurance.cpp.obj: CMakeFiles/firstApp.dir/flags.make
+CMakeFiles/firstApp.dir/Insurance.cpp.obj: ../Insurance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dijon\CLionProjects\C-course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/firstApp.dir/Insurance.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\firstApp.dir\Insurance.cpp.obj -c C:\Users\dijon\CLionProjects\C-course\Insurance.cpp
+
+CMakeFiles/firstApp.dir/Insurance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/firstApp.dir/Insurance.cpp.i"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\dijon\CLionProjects\C-course\Insurance.cpp > CMakeFiles\firstApp.dir\Insurance.cpp.i
+
+CMakeFiles/firstApp.dir/Insurance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/firstApp.dir/Insurance.cpp.s"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dijon\CLionProjects\C-course\Insurance.cpp -o CMakeFiles\firstApp.dir\Insurance.cpp.s
+
+CMakeFiles/firstApp.dir/runInsurance.cpp.obj: CMakeFiles/firstApp.dir/flags.make
+CMakeFiles/firstApp.dir/runInsurance.cpp.obj: ../runInsurance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dijon\CLionProjects\C-course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/firstApp.dir/runInsurance.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\firstApp.dir\runInsurance.cpp.obj -c C:\Users\dijon\CLionProjects\C-course\runInsurance.cpp
+
+CMakeFiles/firstApp.dir/runInsurance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/firstApp.dir/runInsurance.cpp.i"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\dijon\CLionProjects\C-course\runInsurance.cpp > CMakeFiles\firstApp.dir\runInsurance.cpp.i
+
+CMakeFiles/firstApp.dir/runInsurance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/firstApp.dir/runInsurance.cpp.s"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dijon\CLionProjects\C-course\runInsurance.cpp -o CMakeFiles\firstApp.dir\runInsurance.cpp.s
+
+CMakeFiles/firstApp.dir/CarInsurance.cpp.obj: CMakeFiles/firstApp.dir/flags.make
+CMakeFiles/firstApp.dir/CarInsurance.cpp.obj: ../CarInsurance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dijon\CLionProjects\C-course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/firstApp.dir/CarInsurance.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\firstApp.dir\CarInsurance.cpp.obj -c C:\Users\dijon\CLionProjects\C-course\CarInsurance.cpp
+
+CMakeFiles/firstApp.dir/CarInsurance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/firstApp.dir/CarInsurance.cpp.i"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\dijon\CLionProjects\C-course\CarInsurance.cpp > CMakeFiles\firstApp.dir\CarInsurance.cpp.i
+
+CMakeFiles/firstApp.dir/CarInsurance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/firstApp.dir/CarInsurance.cpp.s"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dijon\CLionProjects\C-course\CarInsurance.cpp -o CMakeFiles\firstApp.dir\CarInsurance.cpp.s
+
+CMakeFiles/firstApp.dir/dictionary.cpp.obj: CMakeFiles/firstApp.dir/flags.make
+CMakeFiles/firstApp.dir/dictionary.cpp.obj: ../dictionary.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dijon\CLionProjects\C-course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/firstApp.dir/dictionary.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\firstApp.dir\dictionary.cpp.obj -c C:\Users\dijon\CLionProjects\C-course\dictionary.cpp
+
+CMakeFiles/firstApp.dir/dictionary.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/firstApp.dir/dictionary.cpp.i"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\dijon\CLionProjects\C-course\dictionary.cpp > CMakeFiles\firstApp.dir\dictionary.cpp.i
+
+CMakeFiles/firstApp.dir/dictionary.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/firstApp.dir/dictionary.cpp.s"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dijon\CLionProjects\C-course\dictionary.cpp -o CMakeFiles\firstApp.dir\dictionary.cpp.s
+
+CMakeFiles/firstApp.dir/runDictionary.cpp.obj: CMakeFiles/firstApp.dir/flags.make
+CMakeFiles/firstApp.dir/runDictionary.cpp.obj: ../runDictionary.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dijon\CLionProjects\C-course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/firstApp.dir/runDictionary.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\firstApp.dir\runDictionary.cpp.obj -c C:\Users\dijon\CLionProjects\C-course\runDictionary.cpp
+
+CMakeFiles/firstApp.dir/runDictionary.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/firstApp.dir/runDictionary.cpp.i"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\dijon\CLionProjects\C-course\runDictionary.cpp > CMakeFiles\firstApp.dir\runDictionary.cpp.i
+
+CMakeFiles/firstApp.dir/runDictionary.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/firstApp.dir/runDictionary.cpp.s"
+	C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\dijon\CLionProjects\C-course\runDictionary.cpp -o CMakeFiles\firstApp.dir\runDictionary.cpp.s
+
 # Object files for target firstApp
 firstApp_OBJECTS = \
 "CMakeFiles/firstApp.dir/main.cpp.obj" \
@@ -351,7 +429,13 @@ firstApp_OBJECTS = \
 "CMakeFiles/firstApp.dir/employee_implementation.cpp.obj" \
 "CMakeFiles/firstApp.dir/hourlyEmployee.cpp.obj" \
 "CMakeFiles/firstApp.dir/salariedEmployee.cpp.obj" \
-"CMakeFiles/firstApp.dir/chap17.cpp.obj"
+"CMakeFiles/firstApp.dir/chap17.cpp.obj" \
+"CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.obj" \
+"CMakeFiles/firstApp.dir/Insurance.cpp.obj" \
+"CMakeFiles/firstApp.dir/runInsurance.cpp.obj" \
+"CMakeFiles/firstApp.dir/CarInsurance.cpp.obj" \
+"CMakeFiles/firstApp.dir/dictionary.cpp.obj" \
+"CMakeFiles/firstApp.dir/runDictionary.cpp.obj"
 
 # External object files for target firstApp
 firstApp_EXTERNAL_OBJECTS =
@@ -377,11 +461,17 @@ firstApp.exe: CMakeFiles/firstApp.dir/employee_implementation.cpp.obj
 firstApp.exe: CMakeFiles/firstApp.dir/hourlyEmployee.cpp.obj
 firstApp.exe: CMakeFiles/firstApp.dir/salariedEmployee.cpp.obj
 firstApp.exe: CMakeFiles/firstApp.dir/chap17.cpp.obj
+firstApp.exe: CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.obj
+firstApp.exe: CMakeFiles/firstApp.dir/Insurance.cpp.obj
+firstApp.exe: CMakeFiles/firstApp.dir/runInsurance.cpp.obj
+firstApp.exe: CMakeFiles/firstApp.dir/CarInsurance.cpp.obj
+firstApp.exe: CMakeFiles/firstApp.dir/dictionary.cpp.obj
+firstApp.exe: CMakeFiles/firstApp.dir/runDictionary.cpp.obj
 firstApp.exe: CMakeFiles/firstApp.dir/build.make
 firstApp.exe: CMakeFiles/firstApp.dir/linklibs.rsp
 firstApp.exe: CMakeFiles/firstApp.dir/objects1.rsp
 firstApp.exe: CMakeFiles/firstApp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\dijon\CLionProjects\C-course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable firstApp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\dijon\CLionProjects\C-course\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable firstApp.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\firstApp.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

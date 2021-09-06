@@ -176,6 +176,33 @@ Assignment3_COS1511.cpp.s:
 	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/Assignment3_COS1511.cpp.s
 .PHONY : Assignment3_COS1511.cpp.s
 
+Assignment4_COS1512.obj: Assignment4_COS1512.cpp.obj
+
+.PHONY : Assignment4_COS1512.obj
+
+# target to build an object file
+Assignment4_COS1512.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.obj
+.PHONY : Assignment4_COS1512.cpp.obj
+
+Assignment4_COS1512.i: Assignment4_COS1512.cpp.i
+
+.PHONY : Assignment4_COS1512.i
+
+# target to preprocess a source file
+Assignment4_COS1512.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.i
+.PHONY : Assignment4_COS1512.cpp.i
+
+Assignment4_COS1512.s: Assignment4_COS1512.cpp.s
+
+.PHONY : Assignment4_COS1512.s
+
+# target to generate assembly for a file
+Assignment4_COS1512.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.s
+.PHONY : Assignment4_COS1512.cpp.s
+
 COS1512_Assignment_2.obj: COS1512_Assignment_2.cpp.obj
 
 .PHONY : COS1512_Assignment_2.obj
@@ -202,6 +229,60 @@ COS1512_Assignment_2.s: COS1512_Assignment_2.cpp.s
 COS1512_Assignment_2.cpp.s:
 	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/COS1512_Assignment_2.cpp.s
 .PHONY : COS1512_Assignment_2.cpp.s
+
+CarInsurance.obj: CarInsurance.cpp.obj
+
+.PHONY : CarInsurance.obj
+
+# target to build an object file
+CarInsurance.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/CarInsurance.cpp.obj
+.PHONY : CarInsurance.cpp.obj
+
+CarInsurance.i: CarInsurance.cpp.i
+
+.PHONY : CarInsurance.i
+
+# target to preprocess a source file
+CarInsurance.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/CarInsurance.cpp.i
+.PHONY : CarInsurance.cpp.i
+
+CarInsurance.s: CarInsurance.cpp.s
+
+.PHONY : CarInsurance.s
+
+# target to generate assembly for a file
+CarInsurance.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/CarInsurance.cpp.s
+.PHONY : CarInsurance.cpp.s
+
+Insurance.obj: Insurance.cpp.obj
+
+.PHONY : Insurance.obj
+
+# target to build an object file
+Insurance.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/Insurance.cpp.obj
+.PHONY : Insurance.cpp.obj
+
+Insurance.i: Insurance.cpp.i
+
+.PHONY : Insurance.i
+
+# target to preprocess a source file
+Insurance.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/Insurance.cpp.i
+.PHONY : Insurance.cpp.i
+
+Insurance.s: Insurance.cpp.s
+
+.PHONY : Insurance.s
+
+# target to generate assembly for a file
+Insurance.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/Insurance.cpp.s
+.PHONY : Insurance.cpp.s
 
 chap10.obj: chap10.cpp.obj
 
@@ -500,6 +581,33 @@ chap9.cpp.s:
 	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/chap9.cpp.s
 .PHONY : chap9.cpp.s
 
+dictionary.obj: dictionary.cpp.obj
+
+.PHONY : dictionary.obj
+
+# target to build an object file
+dictionary.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/dictionary.cpp.obj
+.PHONY : dictionary.cpp.obj
+
+dictionary.i: dictionary.cpp.i
+
+.PHONY : dictionary.i
+
+# target to preprocess a source file
+dictionary.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/dictionary.cpp.i
+.PHONY : dictionary.cpp.i
+
+dictionary.s: dictionary.cpp.s
+
+.PHONY : dictionary.s
+
+# target to generate assembly for a file
+dictionary.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/dictionary.cpp.s
+.PHONY : dictionary.cpp.s
+
 dtime.obj: dtime.cpp.obj
 
 .PHONY : dtime.obj
@@ -662,6 +770,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+runDictionary.obj: runDictionary.cpp.obj
+
+.PHONY : runDictionary.obj
+
+# target to build an object file
+runDictionary.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/runDictionary.cpp.obj
+.PHONY : runDictionary.cpp.obj
+
+runDictionary.i: runDictionary.cpp.i
+
+.PHONY : runDictionary.i
+
+# target to preprocess a source file
+runDictionary.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/runDictionary.cpp.i
+.PHONY : runDictionary.cpp.i
+
+runDictionary.s: runDictionary.cpp.s
+
+.PHONY : runDictionary.s
+
+# target to generate assembly for a file
+runDictionary.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/runDictionary.cpp.s
+.PHONY : runDictionary.cpp.s
+
+runInsurance.obj: runInsurance.cpp.obj
+
+.PHONY : runInsurance.obj
+
+# target to build an object file
+runInsurance.cpp.obj:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/runInsurance.cpp.obj
+.PHONY : runInsurance.cpp.obj
+
+runInsurance.i: runInsurance.cpp.i
+
+.PHONY : runInsurance.i
+
+# target to preprocess a source file
+runInsurance.cpp.i:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/runInsurance.cpp.i
+.PHONY : runInsurance.cpp.i
+
+runInsurance.s: runInsurance.cpp.s
+
+.PHONY : runInsurance.s
+
+# target to generate assembly for a file
+runInsurance.cpp.s:
+	$(MAKE) -f CMakeFiles\firstApp.dir\build.make CMakeFiles/firstApp.dir/runInsurance.cpp.s
+.PHONY : runInsurance.cpp.s
+
 salariedEmployee.obj: salariedEmployee.cpp.obj
 
 .PHONY : salariedEmployee.obj
@@ -704,9 +866,18 @@ help:
 	@echo ... Assignment3_COS1511.obj
 	@echo ... Assignment3_COS1511.i
 	@echo ... Assignment3_COS1511.s
+	@echo ... Assignment4_COS1512.obj
+	@echo ... Assignment4_COS1512.i
+	@echo ... Assignment4_COS1512.s
 	@echo ... COS1512_Assignment_2.obj
 	@echo ... COS1512_Assignment_2.i
 	@echo ... COS1512_Assignment_2.s
+	@echo ... CarInsurance.obj
+	@echo ... CarInsurance.i
+	@echo ... CarInsurance.s
+	@echo ... Insurance.obj
+	@echo ... Insurance.i
+	@echo ... Insurance.s
 	@echo ... chap10.obj
 	@echo ... chap10.i
 	@echo ... chap10.s
@@ -740,6 +911,9 @@ help:
 	@echo ... chap9.obj
 	@echo ... chap9.i
 	@echo ... chap9.s
+	@echo ... dictionary.obj
+	@echo ... dictionary.i
+	@echo ... dictionary.s
 	@echo ... dtime.obj
 	@echo ... dtime.i
 	@echo ... dtime.s
@@ -758,6 +932,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... runDictionary.obj
+	@echo ... runDictionary.i
+	@echo ... runDictionary.s
+	@echo ... runInsurance.obj
+	@echo ... runInsurance.i
+	@echo ... runInsurance.s
 	@echo ... salariedEmployee.obj
 	@echo ... salariedEmployee.i
 	@echo ... salariedEmployee.s

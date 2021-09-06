@@ -6,8 +6,17 @@ CMakeFiles/firstApp.dir/Assignment3.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/Assignment3.h
 CMakeFiles/firstApp.dir/Assignment3_COS1511.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/Assignment3_COS1511.cpp
+CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.obj
+ C:/Users/dijon/CLionProjects/C-course/Assignment4_COS1512.cpp
 CMakeFiles/firstApp.dir/COS1512_Assignment_2.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/COS1512_Assignment_2.cpp
+CMakeFiles/firstApp.dir/CarInsurance.cpp.obj
+ C:/Users/dijon/CLionProjects/C-course/CarInsurance.cpp
+ C:/Users/dijon/CLionProjects/C-course/CarInsurance.h
+ C:/Users/dijon/CLionProjects/C-course/Insurance.h
+CMakeFiles/firstApp.dir/Insurance.cpp.obj
+ C:/Users/dijon/CLionProjects/C-course/Insurance.cpp
+ C:/Users/dijon/CLionProjects/C-course/Insurance.h
 CMakeFiles/firstApp.dir/chap10.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/chap10.cpp
 CMakeFiles/firstApp.dir/chap11.cpp.obj
@@ -30,6 +39,9 @@ CMakeFiles/firstApp.dir/chap8.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/chap8.cpp
 CMakeFiles/firstApp.dir/chap9.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/chap9.cpp
+CMakeFiles/firstApp.dir/dictionary.cpp.obj
+ C:/Users/dijon/CLionProjects/C-course/dictionary.cpp
+ C:/Users/dijon/CLionProjects/C-course/dictionary.h
 CMakeFiles/firstApp.dir/dtime.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/dtime.cpp
  C:/Users/dijon/CLionProjects/C-course/dtime.h
@@ -45,6 +57,12 @@ CMakeFiles/firstApp.dir/implimentation.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/implimentation.cpp
 CMakeFiles/firstApp.dir/main.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/main.cpp
+CMakeFiles/firstApp.dir/runDictionary.cpp.obj
+ C:/Users/dijon/CLionProjects/C-course/runDictionary.cpp
+CMakeFiles/firstApp.dir/runInsurance.cpp.obj
+ C:/Users/dijon/CLionProjects/C-course/CarInsurance.h
+ C:/Users/dijon/CLionProjects/C-course/Insurance.h
+ C:/Users/dijon/CLionProjects/C-course/runInsurance.cpp
 CMakeFiles/firstApp.dir/salariedEmployee.cpp.obj
  C:/Users/dijon/CLionProjects/C-course/salariedEmployee.cpp
  C:/Users/dijon/CLionProjects/C-course/salariedEmployee.h

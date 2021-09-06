@@ -6,7 +6,16 @@ CMakeFiles/firstApp.dir/Assignment3.cpp.obj: ../Assignment3.h
 
 CMakeFiles/firstApp.dir/Assignment3_COS1511.cpp.obj: ../Assignment3_COS1511.cpp
 
+CMakeFiles/firstApp.dir/Assignment4_COS1512.cpp.obj: ../Assignment4_COS1512.cpp
+
 CMakeFiles/firstApp.dir/COS1512_Assignment_2.cpp.obj: ../COS1512_Assignment_2.cpp
+
+CMakeFiles/firstApp.dir/CarInsurance.cpp.obj: ../CarInsurance.cpp
+CMakeFiles/firstApp.dir/CarInsurance.cpp.obj: ../CarInsurance.h
+CMakeFiles/firstApp.dir/CarInsurance.cpp.obj: ../Insurance.h
+
+CMakeFiles/firstApp.dir/Insurance.cpp.obj: ../Insurance.cpp
+CMakeFiles/firstApp.dir/Insurance.cpp.obj: ../Insurance.h
 
 CMakeFiles/firstApp.dir/chap10.cpp.obj: ../chap10.cpp
 
@@ -30,6 +39,9 @@ CMakeFiles/firstApp.dir/chap8.cpp.obj: ../chap8.cpp
 
 CMakeFiles/firstApp.dir/chap9.cpp.obj: ../chap9.cpp
 
+CMakeFiles/firstApp.dir/dictionary.cpp.obj: ../dictionary.cpp
+CMakeFiles/firstApp.dir/dictionary.cpp.obj: ../dictionary.h
+
 CMakeFiles/firstApp.dir/dtime.cpp.obj: ../dtime.cpp
 CMakeFiles/firstApp.dir/dtime.cpp.obj: ../dtime.h
 
@@ -44,6 +56,12 @@ CMakeFiles/firstApp.dir/implimentation.cpp.obj: ../Assignment3.h
 CMakeFiles/firstApp.dir/implimentation.cpp.obj: ../implimentation.cpp
 
 CMakeFiles/firstApp.dir/main.cpp.obj: ../main.cpp
+
+CMakeFiles/firstApp.dir/runDictionary.cpp.obj: ../runDictionary.cpp
+
+CMakeFiles/firstApp.dir/runInsurance.cpp.obj: ../CarInsurance.h
+CMakeFiles/firstApp.dir/runInsurance.cpp.obj: ../Insurance.h
+CMakeFiles/firstApp.dir/runInsurance.cpp.obj: ../runInsurance.cpp
 
 CMakeFiles/firstApp.dir/salariedEmployee.cpp.obj: ../salariedEmployee.cpp
 CMakeFiles/firstApp.dir/salariedEmployee.cpp.obj: ../salariedEmployee.h

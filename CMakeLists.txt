@@ -22,4 +22,4 @@ add_executable(
         implimentation.cpp
         chap14.cpp
         Assignment3_COS1511.cpp
-        chap15.cpp employee.cpp employee.h employee_implementation.cpp hourlyEmployee.cpp hourlyEmployee.h salariedEmployee.cpp salariedEmployee.h chap17.cpp)
+        chap15.cpp employee.cpp employee.h employee_implementation.cpp hourlyEmployee.cpp hourlyEmployee.h salariedEmployee.cpp salariedEmployee.h chap17.cpp Assignment4_COS1512.cpp Insurance.h CarInsurance.h Insurance.cpp runInsurance.cpp CarInsurance.cpp dictionary.cpp dictionary.h runDictionary.cpp)

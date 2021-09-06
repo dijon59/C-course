@@ -2,9 +2,9 @@
 //// Created by dijon on 05 Aug 2021.
 //
 //
-//#include <iostream>
-//using namespace std;
-//
+#include <iostream>
+using namespace std;
+
 //void writeVertical(int n);
 //
 //int main () {
@@ -30,16 +30,17 @@
 //
 //// ====== =====
 //
-////int factorialFinder(int x) {
-////    if (x == 1) {
-////        return 1;
-////    }
-////    else {
-////        cout << "T";
-////        return x * factorialFinder(x - 1);
-////    }
-////}
-////
-////int main () {
-////    cout << factorialFinder(7);
-////}
+//int factorialFinder(int x) {
+//    if (x == 1) {
+//        return 1;
+//    }
+//    else {
+//        cout << "T";
+//        cout << factorialFinder(x - 1);
+//        return x * factorialFinder(x - 1);
+//    }
+//}
+//
+//int main () {
+//    factorialFinder(7);
+//}

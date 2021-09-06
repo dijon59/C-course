@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/dijon/CLionProjects/C-course/chap17.cpp
+C:/Users/dijon/CLionProjects/C-course/CarInsurance.cpp
+CarInsurance.h
+C:/Users/dijon/CLionProjects/C-course/CarInsurance.h
+iostream
+-
+
+C:/Users/dijon/CLionProjects/C-course/CarInsurance.h
+Insurance.h
+C:/Users/dijon/CLionProjects/C-course/Insurance.h
+iostream
+-
+
+C:/Users/dijon/CLionProjects/C-course/Insurance.h
 iostream
 -
 

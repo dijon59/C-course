@@ -89,7 +89,22 @@
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/Assignment3_COS1511.cpp">
 			<Option target="firstApp"/>
 		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/Assignment4_COS1512.cpp">
+			<Option target="firstApp"/>
+		</Unit>
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/COS1512_Assignment_2.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/CarInsurance.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/CarInsurance.h">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/Insurance.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/Insurance.h">
 			<Option target="firstApp"/>
 		</Unit>
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap10.cpp">
@@ -125,6 +140,12 @@
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/chap9.cpp">
 			<Option target="firstApp"/>
 		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/dictionary.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/dictionary.h">
+			<Option target="firstApp"/>
+		</Unit>
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/dtime.cpp">
 			<Option target="firstApp"/>
 		</Unit>
@@ -150,6 +171,12 @@
 			<Option target="firstApp"/>
 		</Unit>
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/main.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/runDictionary.cpp">
+			<Option target="firstApp"/>
+		</Unit>
+		<Unit filename="C:/Users/dijon/CLionProjects/C-course/runInsurance.cpp">
 			<Option target="firstApp"/>
 		</Unit>
 		<Unit filename="C:/Users/dijon/CLionProjects/C-course/salariedEmployee.cpp">
